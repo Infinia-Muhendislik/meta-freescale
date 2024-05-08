@@ -25,7 +25,7 @@ DEPENDS += "lzop-native bc-native"
 # | arch/arm64/configs/imx_v8_defconfig | linux-imx/mx8-nxp-bsp/defconfig |
 SRCBRANCH = "lf-5.15.y"
 LOCALVERSION = "-5.15.71-2.2.0"
-SRCREV = "3313732e9984cb8a6b10a9085c7e18d58e770d56"
+SRCREV = "8d520a3840500731628c69bd7a6d1d16e5214eed"
 
 # PV is defined in the base in linux-imx.inc file and uses the LINUX_VERSION definition
 # required by kernel-yocto.bbclass.
